@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://arpit-maurya.github.io/studyGram/sitemap.xml
